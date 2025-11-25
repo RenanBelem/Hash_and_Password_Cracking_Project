@@ -39,7 +39,7 @@ O arquivo armazena as credenciais como: `login | hash_da_senha`
 *Exemplo:*
 
 ```
-[cite_start]asdf | b02cce6739ce51ef5032d9c7f7ba85c3 [cite: 1]
+asdf | b02cce6739ce51ef5032d9c7f7ba85c3
 ```
 
 -----
